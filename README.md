@@ -107,4 +107,4 @@ These are used for deploying and verifying contracts.
 ## 📖 Related Repositories
 
 **Frontend DApp:** [Rental-Dapp](https://github.com/TomerBitonn/Rental-dApp.git)
-- React + Ethers.js interface for deploying and interacting with the contract.
+**React + Ethers.js interface for deploying and interacting with the contract.**
