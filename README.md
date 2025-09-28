@@ -1,4 +1,4 @@
-# Rental Smart Contracts 📄
+# Rental Smart Contracts
 
 A Solidity smart contract for managing **rental agreements** on the **Ethereum Blockchain.**  
 This repository contains the contract code, unit tests, and Hardhat configuration for deployment and verification.  
@@ -38,14 +38,18 @@ This project leverages the following stack:
 
 ```
 Rental-Smart-Contracts/
-├── artifacts/ # Hardhat build artifacts
-├── cache/ # Hardhat cache
-├── contracts/ # Solidity contracts
-│ └── RentalContract.sol # Main smart contract
-├── scripts/ # Deployment & utility scripts
-│ └── RentalDeploy.js # Script to deploy the contract
-├── test/ # Unit tests (JavaScript + Chai)
+├── artifacts/ 
+├── cache/ 
+│
+├── contracts/ 
+│ └── RentalContract.sol 
+│
+├── scripts/ 
+│ └── RentalDeploy.js 
+│
+├── test/ 
 │ └── RentalContract.test.js
+│
 ├── .env # Environment variables (private key, RPC, API keys)
 ├── .gitignore
 ├── hardhat.config.js # Hardhat configuration
