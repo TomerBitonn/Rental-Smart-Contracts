@@ -70,7 +70,7 @@ cd Rental-Smart-Contracts
 
 ### 2. Install dependencies
 ```bash
-npx install
+npm install
 ```
 
 ### 3. Compile the contract
